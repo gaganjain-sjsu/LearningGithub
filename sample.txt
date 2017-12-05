@@ -1,3 +1,5 @@
+Now changes made by master
+
 <<<<<<< HEAD
 Again new changes made by gagan
 =======
