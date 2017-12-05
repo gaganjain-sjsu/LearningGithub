@@ -1,2 +1,3 @@
+Now new changes made by master
 New changes made in gagan branch
 Sample File for testing direct commit
