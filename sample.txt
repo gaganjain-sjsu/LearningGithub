@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Again new changes made by gagan
+=======
+Now new changes made by master
+>>>>>>> master
 New changes made in gagan branch
 Sample File for testing direct commit
